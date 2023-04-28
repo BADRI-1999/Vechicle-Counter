@@ -1,6 +1,13 @@
 # Vehicle Counting with YOLOv4 and DeepSORT Tracking
 This project is designed to count the number of vehicles that cross a particular line, which is also drawn by the user. The system uses YOLOv4 for vehicle detection and DeepSORT tracking for vehicle tracking.
 
+
+
+
+https://user-images.githubusercontent.com/43640058/235049740-eaef019a-153f-419f-a29e-6ed195019cc9.mp4
+
+
+
 ## Installation
 To use this project, you will need to install the following dependencies:
 
